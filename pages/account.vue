@@ -1,6 +1,6 @@
 <template>
   <UContainer>
-    <AccountView class="mx-auto max-w-xs py-10" />
+    <ViewAccount class="mx-auto max-w-xs py-10" />
   </UContainer>
 </template>
 

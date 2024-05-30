@@ -1,6 +1,6 @@
 <template>
   <UContainer>
-    <LoginForm class="mx-auto max-w-xs py-10" />
+    <ViewLogin class="mx-auto max-w-xs py-10" />
   </UContainer>
 </template>
 

@@ -12,7 +12,6 @@ Guide and inspiration from:
 - https://supabase.com/docs/guides/cli/managing-environments
 - https://supabase.nuxtjs.org/
 - https://github.com/nuxt-modules/supabase/tree/main/demo
-- https://github.com/jahidanowar/shrty
 - https://ui.nuxt.com/
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
