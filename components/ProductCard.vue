@@ -1,10 +1,13 @@
 <template>
-  <div class="rounded-lg border border-gray-200 p-4 shadow-md">
+  <NuxtLink
+    :to="`/shop/${product.id}`"
+    class="rounded-lg border border-gray-200 p-4 shadow-md"
+  >
     <h2 class="text-lg font-semibold">{{ product.name }}</h2>
     <p class="text-sm text-gray-500">{{ product.description }}</p>
     <p class="text-lg font-semibold">${{ product.price / 100 }}</p>
     <UButton :loading :label="loading ? '' : 'Buy now'" @click="checkout" />
-  </div>
+  </NuxtLink>
 </template>
 
 <script setup lang="ts">
