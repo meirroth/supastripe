@@ -1,11 +1,13 @@
-# My Nuxt x Supabase starter
+# My Nuxt x Supabase x Stripe starter
 
-This is a starter template for a Nuxt 3 project with Supabase integration. It includes:
+This is a starter template for a Nuxt 3 project with Supabase and Stripe integration. It includes:
 
 - Nuxt UI
 - Eslint and Prettier
 - Supabase CI/CD integration
 - Sign up and sign in with magic link using Supabase Auth
+- Stripe checkout
+- Stripe webhooks
 
 Guide and inspiration from:
 
