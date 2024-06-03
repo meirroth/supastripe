@@ -15,6 +15,8 @@ Guide and inspiration from:
 - https://supabase.nuxtjs.org/
 - https://github.com/nuxt-modules/supabase/tree/main/demo
 - https://ui.nuxt.com/
+- https://docs.stripe.com/payments/checkout
+- https://docs.stripe.com/webhooks
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
